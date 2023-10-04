@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Core\W4.1-ShapeMaster.Domain\bin\Debug\net7.0\W4.1-ShapeMaster.Domain.deps.json
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Core\W4.1-ShapeMaster.Domain\bin\Debug\net7.0\W4.1-ShapeMaster.Domain.dll
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Core\W4.1-ShapeMaster.Domain\bin\Debug\net7.0\W4.1-ShapeMaster.Domain.pdb
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Core\W4.1-ShapeMaster.Domain\obj\Debug\net7.0\W4.1-ShapeMaster.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Core\W4.1-ShapeMaster.Domain\obj\Debug\net7.0\W4.1-ShapeMaster.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Core\W4.1-ShapeMaster.Domain\obj\Debug\net7.0\W4.1-ShapeMaster.Domain.AssemblyInfo.cs
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Core\W4.1-ShapeMaster.Domain\obj\Debug\net7.0\W4.1-ShapeMaster.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Core\W4.1-ShapeMaster.Domain\obj\Debug\net7.0\W4.1-ShapeMaster.Domain.dll
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Core\W4.1-ShapeMaster.Domain\obj\Debug\net7.0\refint\W4.1-ShapeMaster.Domain.dll
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Core\W4.1-ShapeMaster.Domain\obj\Debug\net7.0\W4.1-ShapeMaster.Domain.pdb
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Core\W4.1-ShapeMaster.Domain\obj\Debug\net7.0\ref\W4.1-ShapeMaster.Domain.dll

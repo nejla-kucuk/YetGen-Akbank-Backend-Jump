@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\bin\Debug\net7.0\W4.1-ShapeMaster.Infrastructure.deps.json
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\bin\Debug\net7.0\W4.1-ShapeMaster.Infrastructure.dll
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\bin\Debug\net7.0\W4.1-ShapeMaster.Infrastructure.pdb
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\bin\Debug\net7.0\W4.1-ShapeMaster.Domain.dll
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\bin\Debug\net7.0\W4.1-ShapeMaster.Domain.pdb
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\obj\Debug\net7.0\W4.1-ShapeMaster.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\obj\Debug\net7.0\W4.1-ShapeMaster.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\obj\Debug\net7.0\W4.1-ShapeMaster.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\obj\Debug\net7.0\W4.1-ShapeMaster.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\obj\Debug\net7.0\W4.1-ShapeMaster.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\obj\Debug\net7.0\W4.1-ShapeMaster.Infrastructure.csproj.CopyComplete
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\obj\Debug\net7.0\W4.1-ShapeMaster.Infrastructure.dll
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\obj\Debug\net7.0\refint\W4.1-ShapeMaster.Infrastructure.dll
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\obj\Debug\net7.0\W4.1-ShapeMaster.Infrastructure.pdb
+C:\Users\Asus\source\repos\W4.1-ShapeMaster\Infrastructure\W4.1-ShapeMaster.Infrastructure\obj\Debug\net7.0\ref\W4.1-ShapeMaster.Infrastructure.dll

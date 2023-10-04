@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "W4.1-ShapeMaster.Infrastructure/1.0.0": {
+        "dependencies": {
+          "W4.1-ShapeMaster.Domain": "1.0.0"
+        },
+        "runtime": {
+          "W4.1-ShapeMaster.Infrastructure.dll": {}
+        }
+      },
+      "W4.1-ShapeMaster.Domain/1.0.0": {
+        "runtime": {
+          "W4.1-ShapeMaster.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W4.1-ShapeMaster.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "W4.1-ShapeMaster.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
