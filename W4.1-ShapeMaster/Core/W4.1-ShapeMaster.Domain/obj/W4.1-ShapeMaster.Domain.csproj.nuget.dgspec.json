@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\W4.1-ShapeMaster.Domain.csproj": {}
+    "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\W4.1-ShapeMaster.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\W4.1-ShapeMaster.Domain.csproj": {
+    "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\W4.1-ShapeMaster.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\W4.1-ShapeMaster.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\W4.1-ShapeMaster.Domain.csproj",
         "projectName": "W4.1-ShapeMaster.Domain",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\W4.1-ShapeMaster.Domain.csproj",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\W4.1-ShapeMaster.Domain.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

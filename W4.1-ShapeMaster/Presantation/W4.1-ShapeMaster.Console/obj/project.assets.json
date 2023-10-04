@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\W4.1-ShapeMaster\\Presantation\\W4.1-ShapeMaster.Console\\W4.1-ShapeMaster.Console.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.1-ShapeMaster\\Presantation\\W4.1-ShapeMaster.Console\\W4.1-ShapeMaster.Console.csproj",
       "projectName": "W4.1-ShapeMaster.Console",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\W4.1-ShapeMaster\\Presantation\\W4.1-ShapeMaster.Console\\W4.1-ShapeMaster.Console.csproj",
+      "projectPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.1-ShapeMaster\\Presantation\\W4.1-ShapeMaster.Console\\W4.1-ShapeMaster.Console.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\W4.1-ShapeMaster\\Presantation\\W4.1-ShapeMaster.Console\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.1-ShapeMaster\\Presantation\\W4.1-ShapeMaster.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Asus\\source\\repos\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\W4.1-ShapeMaster.Domain.csproj": {
-              "projectPath": "C:\\Users\\Asus\\source\\repos\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\W4.1-ShapeMaster.Domain.csproj"
+            "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\W4.1-ShapeMaster.Domain.csproj": {
+              "projectPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.1-ShapeMaster\\Core\\W4.1-ShapeMaster.Domain\\W4.1-ShapeMaster.Domain.csproj"
             },
-            "C:\\Users\\Asus\\source\\repos\\W4.1-ShapeMaster\\Infrastructure\\W4.1-ShapeMaster.Infrastructure\\W4.1-ShapeMaster.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Asus\\source\\repos\\W4.1-ShapeMaster\\Infrastructure\\W4.1-ShapeMaster.Infrastructure\\W4.1-ShapeMaster.Infrastructure.csproj"
+            "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.1-ShapeMaster\\Infrastructure\\W4.1-ShapeMaster.Infrastructure\\W4.1-ShapeMaster.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.1-ShapeMaster\\Infrastructure\\W4.1-ShapeMaster.Infrastructure\\W4.1-ShapeMaster.Infrastructure.csproj"
             }
           }
         }

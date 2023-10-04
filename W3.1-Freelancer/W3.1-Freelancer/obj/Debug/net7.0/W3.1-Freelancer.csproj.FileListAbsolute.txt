@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\bin\Debug\net7.0\W3.1-Freelancer.exe
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\bin\Debug\net7.0\W3.1-Freelancer.deps.json
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\bin\Debug\net7.0\W3.1-Freelancer.runtimeconfig.json
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\bin\Debug\net7.0\W3.1-Freelancer.dll
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\bin\Debug\net7.0\W3.1-Freelancer.pdb
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\obj\Debug\net7.0\W3.1-Freelancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\obj\Debug\net7.0\W3.1-Freelancer.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\obj\Debug\net7.0\W3.1-Freelancer.AssemblyInfo.cs
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\obj\Debug\net7.0\W3.1-Freelancer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\obj\Debug\net7.0\W3.1-Freelancer.dll
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\obj\Debug\net7.0\refint\W3.1-Freelancer.dll
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\obj\Debug\net7.0\W3.1-Freelancer.pdb
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\obj\Debug\net7.0\W3.1-Freelancer.genruntimeconfig.cache
+C:\Users\Asus\source\repos\W3.1-Freelancer\W3.1-Freelancer\obj\Debug\net7.0\ref\W3.1-Freelancer.dll
