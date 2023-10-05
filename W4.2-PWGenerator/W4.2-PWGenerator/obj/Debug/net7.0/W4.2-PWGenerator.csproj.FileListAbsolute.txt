@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\bin\Debug\net7.0\W4.2-PWGenerator.exe
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\bin\Debug\net7.0\W4.2-PWGenerator.deps.json
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\bin\Debug\net7.0\W4.2-PWGenerator.runtimeconfig.json
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\bin\Debug\net7.0\W4.2-PWGenerator.dll
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\bin\Debug\net7.0\W4.2-PWGenerator.pdb
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\obj\Debug\net7.0\W4.2-PWGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\obj\Debug\net7.0\W4.2-PWGenerator.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\obj\Debug\net7.0\W4.2-PWGenerator.AssemblyInfo.cs
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\obj\Debug\net7.0\W4.2-PWGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\obj\Debug\net7.0\W4.2-PWGenerator.dll
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\obj\Debug\net7.0\refint\W4.2-PWGenerator.dll
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\obj\Debug\net7.0\W4.2-PWGenerator.pdb
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\obj\Debug\net7.0\W4.2-PWGenerator.genruntimeconfig.cache
+C:\Users\Asus\source\repos\W4.2-PWGenerator\W4.2-PWGenerator\obj\Debug\net7.0\ref\W4.2-PWGenerator.dll
