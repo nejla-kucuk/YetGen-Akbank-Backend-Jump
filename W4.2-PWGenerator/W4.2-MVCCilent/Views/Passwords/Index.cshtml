@@ -1,0 +1,34 @@
+﻿@model PasswordsIndexViewModel
+
+<h1>@Model.WellcomeMessage</h1>
+
+<h1>Password: @Model.Password</h1>
+
+<form asp-action="Index" asp-route-viewModel ="@Model">
+
+
+	<label>Please, enter the password length!</label>
+
+	<input class="form-control" asp-for="PasswordLenght"/>
+
+	<label>Include Numbers?</label>
+
+	<input class="form-check" type="checkbox" asp-for= "IncludeNumbers" />
+
+	<label>Include Lowercase Characters?</label>
+
+	<input class="form-check" type="checkbox" asp-for= "IncludeLowerCaseChars" />
+
+	<label>Include Uppercase Characters?</label>
+
+	<input class="form-check" type="checkbox" asp-for= "IncludeUpperCaseChars" />
+
+	<label>Include Special Characters?</label>
+
+	<input class="form-check" type="checkbox" asp-for="IncludeSpecialChars" />
+
+
+
+<button class="btn btn-success mt-3 " asp-action="Index" type = "submit">Push</button>
+
+</form>

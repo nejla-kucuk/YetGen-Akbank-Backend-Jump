@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W4.2-PWGenerator", "W4.2-PWGenerator\W4.2-PWGenerator.csproj", "{D63EDC1D-22AD-477A-8D9E-BB0E58FE19F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W4.2-PWGenerator", "W4.2-PWGenerator\W4.2-PWGenerator.csproj", "{D63EDC1D-22AD-477A-8D9E-BB0E58FE19F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W4.2-MVCCilent", "W4.2-MVCCilent\W4.2-MVCCilent.csproj", "{DA3A39AC-42A7-412E-A936-B798A511CD6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D63EDC1D-22AD-477A-8D9E-BB0E58FE19F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D63EDC1D-22AD-477A-8D9E-BB0E58FE19F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D63EDC1D-22AD-477A-8D9E-BB0E58FE19F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3A39AC-42A7-412E-A936-B798A511CD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3A39AC-42A7-412E-A936-B798A511CD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3A39AC-42A7-412E-A936-B798A511CD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3A39AC-42A7-412E-A936-B798A511CD6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

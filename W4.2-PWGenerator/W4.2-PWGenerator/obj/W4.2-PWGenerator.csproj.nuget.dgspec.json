@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\W4.2-PWGenerator\\W4.2-PWGenerator\\W4.2-PWGenerator.csproj": {}
+    "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.2-PWGenerator\\W4.2-PWGenerator\\W4.2-PWGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\W4.2-PWGenerator\\W4.2-PWGenerator\\W4.2-PWGenerator.csproj": {
+    "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.2-PWGenerator\\W4.2-PWGenerator\\W4.2-PWGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\W4.2-PWGenerator\\W4.2-PWGenerator\\W4.2-PWGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.2-PWGenerator\\W4.2-PWGenerator\\W4.2-PWGenerator.csproj",
         "projectName": "W4.2-PWGenerator",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\W4.2-PWGenerator\\W4.2-PWGenerator\\W4.2-PWGenerator.csproj",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.2-PWGenerator\\W4.2-PWGenerator\\W4.2-PWGenerator.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\W4.2-PWGenerator\\W4.2-PWGenerator\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W4.2-PWGenerator\\W4.2-PWGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

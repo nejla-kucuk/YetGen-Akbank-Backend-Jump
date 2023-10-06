@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\W4.2-MVCCilent.props" />
+</Project>
