@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "W5.1-Productify.MVC/1.0.0": {
+        "dependencies": {
+          "W5.1-Productify.Domain": "1.0.0"
+        },
+        "runtime": {
+          "W5.1-Productify.MVC.dll": {}
+        }
+      },
+      "W5.1-Productify.Domain/1.0.0": {
+        "runtime": {
+          "W5.1-Productify.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W5.1-Productify.MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "W5.1-Productify.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

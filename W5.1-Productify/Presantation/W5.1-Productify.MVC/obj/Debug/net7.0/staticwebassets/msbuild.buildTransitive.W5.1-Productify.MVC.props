@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\W5.1-Productify.MVC.props" />
+</Project>

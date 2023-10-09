@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\YetGenAkbankJump\W5.1-Productify\Core\W5.1-Productify.Domain\bin\Debug\net7.0\W5.1-Productify.Domain.deps.json
+C:\Users\Asus\source\repos\YetGenAkbankJump\W5.1-Productify\Core\W5.1-Productify.Domain\bin\Debug\net7.0\W5.1-Productify.Domain.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W5.1-Productify\Core\W5.1-Productify.Domain\bin\Debug\net7.0\W5.1-Productify.Domain.pdb
+C:\Users\Asus\source\repos\YetGenAkbankJump\W5.1-Productify\Core\W5.1-Productify.Domain\obj\Debug\net7.0\W5.1-Productify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\YetGenAkbankJump\W5.1-Productify\Core\W5.1-Productify.Domain\obj\Debug\net7.0\W5.1-Productify.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W5.1-Productify\Core\W5.1-Productify.Domain\obj\Debug\net7.0\W5.1-Productify.Domain.AssemblyInfo.cs
+C:\Users\Asus\source\repos\YetGenAkbankJump\W5.1-Productify\Core\W5.1-Productify.Domain\obj\Debug\net7.0\W5.1-Productify.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W5.1-Productify\Core\W5.1-Productify.Domain\obj\Debug\net7.0\W5.1-Productify.Domain.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W5.1-Productify\Core\W5.1-Productify.Domain\obj\Debug\net7.0\refint\W5.1-Productify.Domain.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W5.1-Productify\Core\W5.1-Productify.Domain\obj\Debug\net7.0\W5.1-Productify.Domain.pdb
+C:\Users\Asus\source\repos\YetGenAkbankJump\W5.1-Productify\Core\W5.1-Productify.Domain\obj\Debug\net7.0\ref\W5.1-Productify.Domain.dll
