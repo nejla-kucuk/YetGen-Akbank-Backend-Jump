@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c1YJmCf4oOuJUS/yHWy5KLAU5l5u6q4S81gcs0PajRsaVxmxC9yC2n75d9ATaO+XOmsj7E2owjkJlxrSlAc5TQ==",
+  "dgSpecHash": "WWFPkIgMU0PFCgcTAL28glBOqwj3mjLSMH8l/hduXdwqtIDkjE7+3cqScRfXjUABR6l17gROFaYZCebe5x+c9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\W5.0-Linq-Methods\\W5.0-Linq-Methods\\W5.0-Linq-Methods.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W5.0-Linq-Methods\\W5.0-Linq-Methods\\W5.0-LinqMethods.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

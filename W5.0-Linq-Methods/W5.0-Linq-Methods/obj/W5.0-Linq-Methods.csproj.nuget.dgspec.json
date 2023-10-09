@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\W5.0-Linq-Methods\\W5.0-Linq-Methods\\W5.0-Linq-Methods.csproj": {}
+    "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W5.0-Linq-Methods\\W5.0-Linq-Methods\\W5.0-Linq-Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\W5.0-Linq-Methods\\W5.0-Linq-Methods\\W5.0-Linq-Methods.csproj": {
+    "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W5.0-Linq-Methods\\W5.0-Linq-Methods\\W5.0-Linq-Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\W5.0-Linq-Methods\\W5.0-Linq-Methods\\W5.0-Linq-Methods.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W5.0-Linq-Methods\\W5.0-Linq-Methods\\W5.0-Linq-Methods.csproj",
         "projectName": "W5.0-Linq-Methods",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\W5.0-Linq-Methods\\W5.0-Linq-Methods\\W5.0-Linq-Methods.csproj",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W5.0-Linq-Methods\\W5.0-Linq-Methods\\W5.0-Linq-Methods.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\W5.0-Linq-Methods\\W5.0-Linq-Methods\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W5.0-Linq-Methods\\W5.0-Linq-Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
