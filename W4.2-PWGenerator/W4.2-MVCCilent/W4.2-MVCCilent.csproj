@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Betalgo.OpenAI" Version="7.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\W4.2-PWGenerator\W4.2-PWGenerator.csproj" />
   </ItemGroup>
 

@@ -35,3 +35,4 @@ C:\Users\Asus\source\repos\YetGenAkbankJump\W4.2-PWGenerator\W4.2-MVCCilent\obj\
 C:\Users\Asus\source\repos\YetGenAkbankJump\W4.2-PWGenerator\W4.2-MVCCilent\obj\Debug\net7.0\W4.2-MVCCilent.pdb
 C:\Users\Asus\source\repos\YetGenAkbankJump\W4.2-PWGenerator\W4.2-MVCCilent\obj\Debug\net7.0\W4.2-MVCCilent.genruntimeconfig.cache
 C:\Users\Asus\source\repos\YetGenAkbankJump\W4.2-PWGenerator\W4.2-MVCCilent\obj\Debug\net7.0\ref\W4.2-MVCCilent.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W4.2-PWGenerator\W4.2-MVCCilent\bin\Debug\net7.0\OpenAI.dll

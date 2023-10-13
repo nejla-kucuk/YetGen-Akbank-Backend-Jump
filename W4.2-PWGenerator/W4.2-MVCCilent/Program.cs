@@ -1,7 +1,12 @@
+using Microsoft.Extensions.DependencyInjection;
+using OpenAI.Extensions;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddOpenAIService(settings =>  settings.ApiKey = "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"); 
 
 var app = builder.Build();
 
@@ -22,6 +27,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Passwords}/{action=Index}/{id?}");
 
 app.Run();

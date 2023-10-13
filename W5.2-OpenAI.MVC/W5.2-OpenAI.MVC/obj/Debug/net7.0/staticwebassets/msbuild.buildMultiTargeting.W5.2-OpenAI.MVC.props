@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\W5.2-OpenAI.MVC.props" />
+</Project>
