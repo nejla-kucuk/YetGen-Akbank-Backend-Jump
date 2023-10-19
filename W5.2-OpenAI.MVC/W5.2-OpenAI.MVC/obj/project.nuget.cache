@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EA8tXTHvUi0CHVcgkfvQ26DFxehK5sGoIW4wXOWYja/g2PFwoThnZ1fSHLU69jdfZsDcnQyHTxFFYcBUd64jeg==",
+  "dgSpecHash": "OP8YqvdCLvbzyf47/VMWnTdv5zg/qxJ90t2qmFTxmQc529U06rkHe3nxYPTREUQJioGnLh1cCLe28wT7jbARHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\betalgo.openai\\7.2.0\\betalgo.openai.7.2.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

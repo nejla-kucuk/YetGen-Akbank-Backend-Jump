@@ -566,11 +566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC.csproj",
       "projectName": "W5.2-OpenAI.MVC",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC.csproj",
+      "projectPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W5.2-OpenAI.MVC\\W5.2-OpenAI.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
