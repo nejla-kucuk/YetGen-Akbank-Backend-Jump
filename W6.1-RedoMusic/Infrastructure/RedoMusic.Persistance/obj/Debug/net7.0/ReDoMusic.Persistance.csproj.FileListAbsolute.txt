@@ -1,5 +1,0 @@
-C:\Users\Asus\source\repos\W6.1-ReDoMusic\Infrastructure\RedoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistance.csproj.AssemblyReference.cache
-C:\Users\Asus\source\repos\W6.1-ReDoMusic\Infrastructure\RedoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistance.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Asus\source\repos\W6.1-ReDoMusic\Infrastructure\RedoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistance.AssemblyInfoInputs.cache
-C:\Users\Asus\source\repos\W6.1-ReDoMusic\Infrastructure\RedoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistance.AssemblyInfo.cs
-C:\Users\Asus\source\repos\W6.1-ReDoMusic\Infrastructure\RedoMusic.Persistance\obj\Debug\net7.0\ReDoMusic.Persistance.csproj.CoreCompileInputs.cache
