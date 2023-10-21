@@ -1,4 +1,0 @@
-C:\Users\Asus\source\repos\W6.1-ReDoMusic\Core\RedoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Asus\source\repos\W6.1-ReDoMusic\Core\RedoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.AssemblyInfoInputs.cache
-C:\Users\Asus\source\repos\W6.1-ReDoMusic\Core\RedoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.AssemblyInfo.cs
-C:\Users\Asus\source\repos\W6.1-ReDoMusic\Core\RedoMusic.Domain\obj\Debug\net7.0\ReDoMusic.Domain.csproj.CoreCompileInputs.cache
