@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\W6.2-WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W6.2-WebAPI\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\W6.2-WebAPI\\WebAPI.Domain\\WebAPI.Domain.csproj": {
+    "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W6.2-WebAPI\\WebAPI.Domain\\WebAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\W6.2-WebAPI\\WebAPI.Domain\\WebAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W6.2-WebAPI\\WebAPI.Domain\\WebAPI.Domain.csproj",
         "projectName": "WebAPI.Domain",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\W6.2-WebAPI\\WebAPI.Domain\\WebAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W6.2-WebAPI\\WebAPI.Domain\\WebAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\W6.2-WebAPI\\WebAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W6.2-WebAPI\\WebAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Asus\\source\\repos\\W6.2-WebAPI\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W6.2-WebAPI\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\W6.2-WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W6.2-WebAPI\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\W6.2-WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W6.2-WebAPI\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\W6.2-WebAPI\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W6.2-WebAPI\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Asus\\source\\repos\\W6.2-WebAPI\\WebAPI.Domain\\WebAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\Asus\\source\\repos\\W6.2-WebAPI\\WebAPI.Domain\\WebAPI.Domain.csproj"
+              "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W6.2-WebAPI\\WebAPI.Domain\\WebAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\Asus\\source\\repos\\YetGenAkbankJump\\W6.2-WebAPI\\WebAPI.Domain\\WebAPI.Domain.csproj"
               }
             }
           }
