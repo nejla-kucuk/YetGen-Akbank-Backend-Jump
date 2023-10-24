@@ -40,3 +40,8 @@ C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.API\obj
 C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.API\obj\Debug\net7.0\CarCrazeHub.API.pdb
 C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.API\obj\Debug\net7.0\CarCrazeHub.API.genruntimeconfig.cache
 C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.API\obj\Debug\net7.0\ref\CarCrazeHub.API.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.API\bin\Debug\net7.0\System.CodeDom.dll

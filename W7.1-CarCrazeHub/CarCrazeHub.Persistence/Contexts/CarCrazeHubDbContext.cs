@@ -16,7 +16,11 @@ namespace CarCrazeHub.Persistence.Contexts
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("");
+            optionsBuilder.UseNpgsql("Server= ;" +
+                                     "Port=;" +
+                                     "Database=;" +
+                                     "User Id=;" +
+                                     "Password=;");
         }
 
         /*

@@ -2,24 +2,25 @@
 using CarCrazeHub.Domain.Entities;
 using CarCrazeHub.Persistence.Contexts;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
 
 namespace CarCrazeHub.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UsersController : ControllerBase
+    public class UsersController : Controller
     {
-        private readonly CarCrazeHubDbContext _context;
+        private readonly CarCrazeHubDbContext _dbContext;
 
-        public UsersController(CarCrazeHubDbContext context)
+        public UsersController()
         {
-            _context = context;
+            _dbContext = new();
         }
 
         [HttpGet]
         public List<User> GetAll()
         {
-            return _context.Users.ToList();
+            return _dbContext.Users.ToList();
         }
 
         [HttpPost]
@@ -33,9 +34,9 @@ namespace CarCrazeHub.API.Controllers
                 CreatedByUserId = "nejlakucuk"
             };
 
-            _context.Users.Add(user);
+            _dbContext.Users.Add(user);
 
-            _context.SaveChanges();
+            _dbContext.SaveChanges();
         }
     }
 }
