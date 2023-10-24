@@ -18,6 +18,19 @@ namespace CarCrazeHub.Persistence.Contexts
         {
             optionsBuilder.UseNpgsql("");
         }
+
+        /*
+          protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<User>().HasKey(x => x.Id);
+
+            modelBuilder.Entity<User>()
+                .Property(x => x.Id)
+                .ValueGeneratedNever();
+
+            base.OnModelCreating(modelBuilder);
+        }     
+         */
     }
 }
 

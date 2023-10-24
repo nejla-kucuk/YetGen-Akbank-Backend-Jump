@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\bin\Debug\net7.0\CarCrazeHub.Persistence.deps.json
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\bin\Debug\net7.0\CarCrazeHub.Persistence.runtimeconfig.json
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\bin\Debug\net7.0\CarCrazeHub.Persistence.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\bin\Debug\net7.0\CarCrazeHub.Persistence.pdb
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\bin\Debug\net7.0\CarCrazeHub.Domain.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\bin\Debug\net7.0\CarCrazeHub.Domain.pdb
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\obj\Debug\net7.0\CarCrazeHub.Persistence.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\obj\Debug\net7.0\CarCrazeHub.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\obj\Debug\net7.0\CarCrazeHub.Persistence.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\obj\Debug\net7.0\CarCrazeHub.Persistence.AssemblyInfo.cs
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\obj\Debug\net7.0\CarCrazeHub.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\obj\Debug\net7.0\CarCrazeHub.Persistence.csproj.CopyComplete
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\obj\Debug\net7.0\CarCrazeHub.Persistence.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\obj\Debug\net7.0\refint\CarCrazeHub.Persistence.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\obj\Debug\net7.0\CarCrazeHub.Persistence.pdb
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\obj\Debug\net7.0\CarCrazeHub.Persistence.genruntimeconfig.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Persistence\obj\Debug\net7.0\ref\CarCrazeHub.Persistence.dll

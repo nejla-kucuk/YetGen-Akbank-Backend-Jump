@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarCrazeHub.Domain", "CarCrazeHub.Domain\CarCrazeHub.Domain.csproj", "{213F44A5-8FEA-442A-8CEE-9818D7D138C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarCrazeHub.Domain", "CarCrazeHub.Domain\CarCrazeHub.Domain.csproj", "{213F44A5-8FEA-442A-8CEE-9818D7D138C5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{4F382D86-EC46-4675-836C-375FAD284957}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructor", "Infrastructor", "{1DC32D46-BBC1-4B96-A658-2612AFC70F18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarCrazeHub.Persistence", "CarCrazeHub.Persistence\CarCrazeHub.Persistence.csproj", "{B4E101B8-F1AB-47D9-97E2-6B7F2183176C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarCrazeHub.Persistence", "CarCrazeHub.Persistence\CarCrazeHub.Persistence.csproj", "{B4E101B8-F1AB-47D9-97E2-6B7F2183176C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{7086A0A3-2B11-405E-AA04-A4CF25B73045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarCrazeHub.API", "CarCrazeHub.API\CarCrazeHub.API.csproj", "{63901E49-1749-4A79-B455-2F5545E69F3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +29,10 @@ Global
 		{B4E101B8-F1AB-47D9-97E2-6B7F2183176C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4E101B8-F1AB-47D9-97E2-6B7F2183176C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4E101B8-F1AB-47D9-97E2-6B7F2183176C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63901E49-1749-4A79-B455-2F5545E69F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63901E49-1749-4A79-B455-2F5545E69F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63901E49-1749-4A79-B455-2F5545E69F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63901E49-1749-4A79-B455-2F5545E69F3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{213F44A5-8FEA-442A-8CEE-9818D7D138C5} = {4F382D86-EC46-4675-836C-375FAD284957}
 		{B4E101B8-F1AB-47D9-97E2-6B7F2183176C} = {1DC32D46-BBC1-4B96-A658-2612AFC70F18}
+		{63901E49-1749-4A79-B455-2F5545E69F3D} = {7086A0A3-2B11-405E-AA04-A4CF25B73045}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8115C68A-F1B3-47FD-A4AA-B847AD2E2E60}

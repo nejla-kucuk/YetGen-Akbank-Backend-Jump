@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\bin\Debug\net7.0\CarCrazeHub.Domain.deps.json
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\bin\Debug\net7.0\CarCrazeHub.Domain.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\bin\Debug\net7.0\CarCrazeHub.Domain.pdb
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\obj\Debug\net7.0\CarCrazeHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\obj\Debug\net7.0\CarCrazeHub.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\obj\Debug\net7.0\CarCrazeHub.Domain.AssemblyInfo.cs
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\obj\Debug\net7.0\CarCrazeHub.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\obj\Debug\net7.0\CarCrazeHub.Domain.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\obj\Debug\net7.0\refint\CarCrazeHub.Domain.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\obj\Debug\net7.0\CarCrazeHub.Domain.pdb
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\obj\Debug\net7.0\ref\CarCrazeHub.Domain.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\bin\Debug\net7.0\CarCrazeHub.Domain.runtimeconfig.json
+C:\Users\Asus\source\repos\YetGenAkbankJump\W7.1-CarCrazeHub\CarCrazeHub.Domain\obj\Debug\net7.0\CarCrazeHub.Domain.genruntimeconfig.cache
