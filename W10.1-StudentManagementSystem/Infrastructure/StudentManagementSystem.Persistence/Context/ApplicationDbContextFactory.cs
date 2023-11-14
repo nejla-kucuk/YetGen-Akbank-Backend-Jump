@@ -20,7 +20,7 @@ namespace StudentManagementSystem.Persistence.Context
 
             var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
 
-            var connectionString = configuration.GetSection("Week10.1-StudentDB-NejlaKucuk").Value;
+            var connectionString = configuration.GetSection("W10.1-StudentDB-NejlaKucuk").Value;
 
             optionsBuilder.UseNpgsql(connectionString);
 
