@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSystem.Domain", "Stu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSystem.Persistence", "StudentSystem.Persistence\StudentSystem.Persistence.csproj", "{E21AB002-6913-4190-A67B-26DE114E8BF5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{05DAE42A-3D47-4E4E-A5D1-760962DB4558}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{5DF2FE87-04E9-4416-86FD-E34A0D1F65A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +28,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2947CAB9-9144-4D67-BB69-598E642B6057} = {05DAE42A-3D47-4E4E-A5D1-760962DB4558}
+		{E21AB002-6913-4190-A67B-26DE114E8BF5} = {5DF2FE87-04E9-4416-86FD-E34A0D1F65A3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0E13D4A7-DF0D-4FC7-83FD-6D2A27A328F2}
