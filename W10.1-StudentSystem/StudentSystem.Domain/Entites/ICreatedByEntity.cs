@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace StudentSystem.Domain.Entites
 {
-    internal class ICreatedByEntity
+    public interface ICreatedByEntity
     {
+        public string CreatedByUserId { get; set; }
+
+        public DateTimeOffset CreatedOn { get; set; }
     }
 }

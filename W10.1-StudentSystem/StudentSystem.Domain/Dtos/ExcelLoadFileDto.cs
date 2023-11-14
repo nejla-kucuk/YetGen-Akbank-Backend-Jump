@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace StudentSystem.Domain.Dtos
 {
-    internal class ExcelLoadFileDto
+    public class ExcelLoadFileDto
     {
+        public string Base64File { get; set; } 
     }
 }

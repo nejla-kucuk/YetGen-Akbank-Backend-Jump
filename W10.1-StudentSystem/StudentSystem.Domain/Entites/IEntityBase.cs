@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace StudentSystem.Domain.Entites
 {
-    internal class IEntityBase
+    public interface IEntityBase<TKey> : IEquatable<TKey>
     {
+        public TKey Id { get; set; }
     }
 }

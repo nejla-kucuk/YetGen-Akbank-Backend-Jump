@@ -1,12 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Metrics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace StudentSystem.Domain.Entites
 {
-    internal class City
+    public class City : EntityBase<int>
     {
+        public int CountryId { get; set; }
+
+        public Country Country { get; set; }
+
+        public string Name { get; set; }
+
+        public decimal? Latitude { get; set; }
+
+        public decimal? Longitude { get; set; }
     }
 }

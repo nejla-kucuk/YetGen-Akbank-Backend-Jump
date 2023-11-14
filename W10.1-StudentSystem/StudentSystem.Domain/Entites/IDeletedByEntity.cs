@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace StudentSystem.Domain.Entites
 {
-    internal class IDeletedByEntity
+    public interface IDeletedByEntity
     {
+        public bool IsDeleted { get; set; }
+
+        public string? DeletedByUserId { get; set; }
+
+        public DateTimeOffset? DeletedOn { get; set; }
     }
 }

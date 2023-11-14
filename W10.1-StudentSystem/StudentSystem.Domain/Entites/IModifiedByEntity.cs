@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace StudentSystem.Domain.Entites
 {
-    internal class IModifiedByEntity
+    public interface IModifiedByEntity
     {
+        public string? ModifiedByUserId { get; set; }
+
+        public DateTimeOffset? LastModifiedOn { get; set; }
     }
 }
