@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\bin\Debug\net7.0\StudentManagementSystem.Persistence.deps.json
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\bin\Debug\net7.0\StudentManagementSystem.Persistence.runtimeconfig.json
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\bin\Debug\net7.0\StudentManagementSystem.Persistence.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\bin\Debug\net7.0\StudentManagementSystem.Persistence.pdb
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\bin\Debug\net7.0\StudentManagementSystem.Domain.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\bin\Debug\net7.0\StudentManagementSystem.Domain.pdb
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\obj\Debug\net7.0\StudentManagementSystem.Persistence.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\obj\Debug\net7.0\StudentManagementSystem.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\obj\Debug\net7.0\StudentManagementSystem.Persistence.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\obj\Debug\net7.0\StudentManagementSystem.Persistence.AssemblyInfo.cs
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\obj\Debug\net7.0\StudentManagementSystem.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\obj\Debug\net7.0\StudentManagementSystem.Persistence.csproj.CopyComplete
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\obj\Debug\net7.0\StudentManagementSystem.Persistence.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\obj\Debug\net7.0\refint\StudentManagementSystem.Persistence.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\obj\Debug\net7.0\StudentManagementSystem.Persistence.pdb
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\obj\Debug\net7.0\StudentManagementSystem.Persistence.genruntimeconfig.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Infrastructure\StudentManagementSystem.Persistence\obj\Debug\net7.0\ref\StudentManagementSystem.Persistence.dll

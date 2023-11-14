@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Core\StudentManagementSystem.Domain\bin\Debug\net7.0\StudentManagementSystem.Domain.deps.json
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Core\StudentManagementSystem.Domain\bin\Debug\net7.0\StudentManagementSystem.Domain.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Core\StudentManagementSystem.Domain\bin\Debug\net7.0\StudentManagementSystem.Domain.pdb
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Core\StudentManagementSystem.Domain\obj\Debug\net7.0\StudentManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Core\StudentManagementSystem.Domain\obj\Debug\net7.0\StudentManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Core\StudentManagementSystem.Domain\obj\Debug\net7.0\StudentManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Core\StudentManagementSystem.Domain\obj\Debug\net7.0\StudentManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Core\StudentManagementSystem.Domain\obj\Debug\net7.0\StudentManagementSystem.Domain.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Core\StudentManagementSystem.Domain\obj\Debug\net7.0\refint\StudentManagementSystem.Domain.dll
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Core\StudentManagementSystem.Domain\obj\Debug\net7.0\StudentManagementSystem.Domain.pdb
+C:\Users\Asus\source\repos\YetGenAkbankJump\W10.1-StudentManagementSystem\Core\StudentManagementSystem.Domain\obj\Debug\net7.0\ref\StudentManagementSystem.Domain.dll
