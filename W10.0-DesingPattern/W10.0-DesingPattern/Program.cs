@@ -6,7 +6,11 @@ using W10._0_DesingPattern;
 
 Console.WriteLine("Singleton");
 
-ConfigurationService configurationService = new();
+ConfigurationService configurationService = ConfigurationService.GetInstance();
+ConfigurationService.GetInstance();
+ConfigurationService.GetInstance();
+ConfigurationService.GetInstance();
+ConfigurationService.GetInstance();
 
 var db = configurationService.GetValue("ConnectionStrings:ExampleDb");
 
