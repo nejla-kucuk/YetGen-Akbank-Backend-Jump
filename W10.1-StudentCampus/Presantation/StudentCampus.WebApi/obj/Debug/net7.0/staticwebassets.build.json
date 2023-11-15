@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NCX+HpRfcnDjeAcUN30YsQGOXB7vAnd4qjj2OPkpP5s=",
+  "Source": "StudentCampus.WebApi",
+  "BasePath": "_content/StudentCampus.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

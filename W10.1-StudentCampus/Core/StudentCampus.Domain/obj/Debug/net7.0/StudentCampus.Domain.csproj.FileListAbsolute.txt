@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W10.1-StudentCampus\Core\StudentCampus.Domain\bin\Debug\net7.0\StudentCampus.Domain.deps.json
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W10.1-StudentCampus\Core\StudentCampus.Domain\bin\Debug\net7.0\StudentCampus.Domain.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W10.1-StudentCampus\Core\StudentCampus.Domain\bin\Debug\net7.0\StudentCampus.Domain.pdb
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W10.1-StudentCampus\Core\StudentCampus.Domain\obj\Debug\net7.0\StudentCampus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W10.1-StudentCampus\Core\StudentCampus.Domain\obj\Debug\net7.0\StudentCampus.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W10.1-StudentCampus\Core\StudentCampus.Domain\obj\Debug\net7.0\StudentCampus.Domain.AssemblyInfo.cs
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W10.1-StudentCampus\Core\StudentCampus.Domain\obj\Debug\net7.0\StudentCampus.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W10.1-StudentCampus\Core\StudentCampus.Domain\obj\Debug\net7.0\StudentCampus.Domain.sourcelink.json
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W10.1-StudentCampus\Core\StudentCampus.Domain\obj\Debug\net7.0\StudentCampus.Domain.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W10.1-StudentCampus\Core\StudentCampus.Domain\obj\Debug\net7.0\refint\StudentCampus.Domain.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W10.1-StudentCampus\Core\StudentCampus.Domain\obj\Debug\net7.0\StudentCampus.Domain.pdb
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W10.1-StudentCampus\Core\StudentCampus.Domain\obj\Debug\net7.0\ref\StudentCampus.Domain.dll
