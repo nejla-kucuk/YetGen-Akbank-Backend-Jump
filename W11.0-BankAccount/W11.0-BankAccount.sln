@@ -5,7 +5,15 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{483782B2-85D6-49B6-B8D2-6C9B92602E76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount.Domain", "Core\BankAccount.Domain\BankAccount.Domain.csproj", "{15D3E9ED-EF15-484F-B611-8A09C5BB6B89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount.Domain", "Core\BankAccount.Domain\BankAccount.Domain.csproj", "{15D3E9ED-EF15-484F-B611-8A09C5BB6B89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{D1EF79FC-B1A4-47E1-9073-AA7BE53874F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount.Persistence", "Infrastructure\BankAccount.Persistence\BankAccount.Persistence.csproj", "{C8C69E72-8814-4807-A030-3DBDA7DF4926}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presantation", "Presantation", "{70AEED5D-727B-45F1-9245-58BA675367D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount.WebApi", "Presantation\BankAccount.WebApi\BankAccount.WebApi.csproj", "{9322E20B-F025-4256-955B-A3AB09D01A48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +25,22 @@ Global
 		{15D3E9ED-EF15-484F-B611-8A09C5BB6B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15D3E9ED-EF15-484F-B611-8A09C5BB6B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15D3E9ED-EF15-484F-B611-8A09C5BB6B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C69E72-8814-4807-A030-3DBDA7DF4926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C69E72-8814-4807-A030-3DBDA7DF4926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C69E72-8814-4807-A030-3DBDA7DF4926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C69E72-8814-4807-A030-3DBDA7DF4926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9322E20B-F025-4256-955B-A3AB09D01A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9322E20B-F025-4256-955B-A3AB09D01A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9322E20B-F025-4256-955B-A3AB09D01A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9322E20B-F025-4256-955B-A3AB09D01A48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{15D3E9ED-EF15-484F-B611-8A09C5BB6B89} = {483782B2-85D6-49B6-B8D2-6C9B92602E76}
+		{C8C69E72-8814-4807-A030-3DBDA7DF4926} = {D1EF79FC-B1A4-47E1-9073-AA7BE53874F9}
+		{9322E20B-F025-4256-955B-A3AB09D01A48} = {70AEED5D-727B-45F1-9245-58BA675367D7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ECA6C1A5-F857-40F0-AF92-E556B21E5418}

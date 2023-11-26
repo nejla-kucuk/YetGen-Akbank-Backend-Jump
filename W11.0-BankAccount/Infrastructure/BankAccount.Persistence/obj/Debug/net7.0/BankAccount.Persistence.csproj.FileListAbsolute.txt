@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\bin\Debug\net7.0\BankAccount.Persistence.deps.json
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\bin\Debug\net7.0\BankAccount.Persistence.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\bin\Debug\net7.0\BankAccount.Persistence.pdb
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\bin\Debug\net7.0\BankAccount.Domain.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\bin\Debug\net7.0\BankAccount.Domain.pdb
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\obj\Debug\net7.0\BankAccount.Persistence.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\obj\Debug\net7.0\BankAccount.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\obj\Debug\net7.0\BankAccount.Persistence.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\obj\Debug\net7.0\BankAccount.Persistence.AssemblyInfo.cs
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\obj\Debug\net7.0\BankAccount.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\obj\Debug\net7.0\BankAccount.Persistence.sourcelink.json
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\obj\Debug\net7.0\BankAccount.Persistence.csproj.CopyComplete
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\obj\Debug\net7.0\BankAccount.Persistence.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\obj\Debug\net7.0\refint\BankAccount.Persistence.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\obj\Debug\net7.0\BankAccount.Persistence.pdb
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Infrastructure\BankAccount.Persistence\obj\Debug\net7.0\ref\BankAccount.Persistence.dll

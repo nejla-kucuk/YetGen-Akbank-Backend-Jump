@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+PSfMtRLC6h2gvPZKTSlHMQ1Xel863JgQSNma3Zxc84=",
+  "Source": "BankAccount.WebApi",
+  "BasePath": "_content/BankAccount.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

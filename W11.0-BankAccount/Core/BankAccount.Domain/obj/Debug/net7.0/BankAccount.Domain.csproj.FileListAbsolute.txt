@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Core\BankAccount.Domain\bin\Debug\net7.0\BankAccount.Domain.deps.json
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Core\BankAccount.Domain\bin\Debug\net7.0\BankAccount.Domain.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Core\BankAccount.Domain\bin\Debug\net7.0\BankAccount.Domain.pdb
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Core\BankAccount.Domain\obj\Debug\net7.0\BankAccount.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Core\BankAccount.Domain\obj\Debug\net7.0\BankAccount.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Core\BankAccount.Domain\obj\Debug\net7.0\BankAccount.Domain.AssemblyInfo.cs
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Core\BankAccount.Domain\obj\Debug\net7.0\BankAccount.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Core\BankAccount.Domain\obj\Debug\net7.0\BankAccount.Domain.sourcelink.json
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Core\BankAccount.Domain\obj\Debug\net7.0\BankAccount.Domain.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Core\BankAccount.Domain\obj\Debug\net7.0\refint\BankAccount.Domain.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Core\BankAccount.Domain\obj\Debug\net7.0\BankAccount.Domain.pdb
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Core\BankAccount.Domain\obj\Debug\net7.0\ref\BankAccount.Domain.dll
