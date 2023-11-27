@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Core\Lecture.Application\Lecture.Application.csproj" />
     <ProjectReference Include="..\..\Core\Lecture.Domain\Lecture.Domain.csproj" />
   </ItemGroup>
 

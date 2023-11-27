@@ -214,6 +214,19 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "Lecture.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.13"
+        },
+        "compile": {
+          "bin/placeholder/Lecture.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lecture.Application.dll": {}
+        }
+      },
       "Lecture.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -551,6 +564,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Lecture.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/Lecture.Application/Lecture.Application.csproj",
+      "msbuildProject": "../../Core/Lecture.Application/Lecture.Application.csproj"
+    },
     "Lecture.Domain/1.0.0": {
       "type": "project",
       "path": "../../Core/Lecture.Domain/Lecture.Domain.csproj",
@@ -559,6 +577,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Lecture.Application >= 1.0.0",
       "Lecture.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.13",
       "Microsoft.EntityFrameworkCore.InMemory >= 7.0.13"
@@ -591,6 +610,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\Asus\\source\\repos\\YetGen-Akbank-Backend-Jump\\Core\\Lecture.Application\\Lecture.Application.csproj": {
+              "projectPath": "C:\\Users\\Asus\\source\\repos\\YetGen-Akbank-Backend-Jump\\Core\\Lecture.Application\\Lecture.Application.csproj"
+            },
             "C:\\Users\\Asus\\source\\repos\\YetGen-Akbank-Backend-Jump\\Core\\Lecture.Domain\\Lecture.Domain.csproj": {
               "projectPath": "C:\\Users\\Asus\\source\\repos\\YetGen-Akbank-Backend-Jump\\Core\\Lecture.Domain\\Lecture.Domain.csproj"
             }

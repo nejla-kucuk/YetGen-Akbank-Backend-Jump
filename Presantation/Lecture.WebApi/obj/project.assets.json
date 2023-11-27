@@ -320,6 +320,19 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "Lecture.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.13"
+        },
+        "compile": {
+          "bin/placeholder/Lecture.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lecture.Application.dll": {}
+        }
+      },
       "Lecture.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -334,6 +347,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Lecture.Application": "1.0.0",
           "Lecture.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.13",
           "Microsoft.EntityFrameworkCore.InMemory": "7.0.13"
@@ -1021,6 +1035,11 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Lecture.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/Lecture.Application/Lecture.Application.csproj",
+      "msbuildProject": "../../Core/Lecture.Application/Lecture.Application.csproj"
     },
     "Lecture.Domain/1.0.0": {
       "type": "project",

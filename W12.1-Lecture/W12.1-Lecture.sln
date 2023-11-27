@@ -5,17 +5,17 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{04F13AE3-0AA3-408C-8BE8-C437D52DADAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture.Domain", "..\Core\Lecture.Domain\Lecture.Domain.csproj", "{4DA01B44-004E-464D-8E1F-1A4ED7C6140F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lecture.Domain", "..\Core\Lecture.Domain\Lecture.Domain.csproj", "{4DA01B44-004E-464D-8E1F-1A4ED7C6140F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture.Application", "..\Core\Lecture.Application\Lecture.Application.csproj", "{51D42FCC-C737-422D-A00D-995AF0F7A8B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lecture.Application", "..\Core\Lecture.Application\Lecture.Application.csproj", "{51D42FCC-C737-422D-A00D-995AF0F7A8B9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{69BAC6CE-D8C4-4865-B482-E354B4EAF72E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture.Infrastructure", "..\Infrastructure\Lecture.Infrastructure\Lecture.Infrastructure.csproj", "{5B199EFC-1F8A-4264-A15A-7D5B0E773134}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lecture.Infrastructure", "..\Infrastructure\Lecture.Infrastructure\Lecture.Infrastructure.csproj", "{5B199EFC-1F8A-4264-A15A-7D5B0E773134}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presantation", "Presantation", "{57BFE97E-EF29-404B-8B60-64DB5FA3F997}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture.WebApi", "..\Presantation\Lecture.WebApi\Lecture.WebApi.csproj", "{4355B0AF-3ACC-4E5C-BAC0-9DC395DA031F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lecture.WebApi", "..\Presantation\Lecture.WebApi\Lecture.WebApi.csproj", "{4355B0AF-3ACC-4E5C-BAC0-9DC395DA031F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

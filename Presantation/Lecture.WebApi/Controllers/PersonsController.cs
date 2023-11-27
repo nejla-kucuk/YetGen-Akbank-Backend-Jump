@@ -16,6 +16,12 @@ namespace Lecture.WebApi.Controllers
             _context = lectureDbContext;
 
 
+           
+        }
+
+        [HttpGet("[action]")]
+        public void CreateExampleInstance()
+        {
             List<Person> people = new List<Person>
             {
                 new Person { Id = Guid.NewGuid(), FirstName = "John", LastName = "Doe" },
@@ -27,10 +33,10 @@ namespace Lecture.WebApi.Controllers
             _context.Person.AddRange(people);
             _context.SaveChanges();
             Console.WriteLine(string.Join("\n", people.Select(x => x.Id).ToList()));
+
         }
 
-
-        [HttpGet]
+        [HttpGet("[action]/{personId:guid}")]
         public string GetDefraudedPersonName(Guid personId)
         {
 
