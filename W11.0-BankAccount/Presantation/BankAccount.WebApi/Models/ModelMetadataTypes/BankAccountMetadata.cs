@@ -16,8 +16,5 @@ namespace BankAccount.WebApi.Models.ModelMetadataTypes
         [RegularExpression(@"^(\d{10})$", ErrorMessage = "Phone number must be 10 digits.")]
         public string PhoneNumber { get; set; }
 
-        [Range(0, double.MaxValue, ErrorMessage = "Balance must be a non-negative value.")]
-        public decimal Balance { get; set; }
-
     }
 }
