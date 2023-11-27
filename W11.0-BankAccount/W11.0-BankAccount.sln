@@ -9,11 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount.Domain", "Core\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{D1EF79FC-B1A4-47E1-9073-AA7BE53874F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount.Persistence", "Infrastructure\BankAccount.Persistence\BankAccount.Persistence.csproj", "{C8C69E72-8814-4807-A030-3DBDA7DF4926}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount.Persistence", "Infrastructure\BankAccount.Persistence\BankAccount.Persistence.csproj", "{C8C69E72-8814-4807-A030-3DBDA7DF4926}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presantation", "Presantation", "{70AEED5D-727B-45F1-9245-58BA675367D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount.WebApi", "Presantation\BankAccount.WebApi\BankAccount.WebApi.csproj", "{9322E20B-F025-4256-955B-A3AB09D01A48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount.WebApi", "Presantation\BankAccount.WebApi\BankAccount.WebApi.csproj", "{9322E20B-F025-4256-955B-A3AB09D01A48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

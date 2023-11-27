@@ -39,3 +39,6 @@ C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Presanta
 C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Presantation\BankAccount.WebApi\obj\Debug\net7.0\BankAccount.WebApi.pdb
 C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Presantation\BankAccount.WebApi\obj\Debug\net7.0\BankAccount.WebApi.genruntimeconfig.cache
 C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Presantation\BankAccount.WebApi\obj\Debug\net7.0\ref\BankAccount.WebApi.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Presantation\BankAccount.WebApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Presantation\BankAccount.WebApi\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\W11.0-BankAccount\Presantation\BankAccount.WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace BankAccount.WebApi.Models
+namespace BankAccount.WebApi.Models.Response
 {
 
     public class GetBankAccountDataResponseModel

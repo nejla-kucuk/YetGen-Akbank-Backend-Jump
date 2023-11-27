@@ -1,6 +1,6 @@
 ﻿using BankAccount.Domain.Entities;
 using BankAccount.Persistence.Context;
-using BankAccount.WebApi.Models;
+using BankAccount.WebApi.Models.Response;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BankAccount.WebApi.Controllers
