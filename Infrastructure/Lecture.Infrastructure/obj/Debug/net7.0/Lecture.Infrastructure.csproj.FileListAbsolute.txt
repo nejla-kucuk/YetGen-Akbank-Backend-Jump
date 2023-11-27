@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\bin\Debug\net7.0\Lecture.Infrastructure.deps.json
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\bin\Debug\net7.0\Lecture.Infrastructure.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\bin\Debug\net7.0\Lecture.Infrastructure.pdb
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\bin\Debug\net7.0\Lecture.Domain.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\bin\Debug\net7.0\Lecture.Domain.pdb
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\obj\Debug\net7.0\Lecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\obj\Debug\net7.0\Lecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\obj\Debug\net7.0\Lecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\obj\Debug\net7.0\Lecture.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\obj\Debug\net7.0\Lecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\obj\Debug\net7.0\Lecture.Infrastructure.sourcelink.json
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\obj\Debug\net7.0\Lecture.Infrastructure.csproj.CopyComplete
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\obj\Debug\net7.0\Lecture.Infrastructure.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\obj\Debug\net7.0\refint\Lecture.Infrastructure.dll
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\obj\Debug\net7.0\Lecture.Infrastructure.pdb
+C:\Users\Asus\source\repos\YetGen-Akbank-Backend-Jump\Infrastructure\Lecture.Infrastructure\obj\Debug\net7.0\ref\Lecture.Infrastructure.dll
