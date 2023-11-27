@@ -39,10 +39,6 @@ namespace Lecture.WebApi.Controllers
             return person is null ? "Coulnd't Find!" : person.FirstName;
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
 
 
     }
