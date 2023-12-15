@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddOpenAIService(settings => settings.ApiKey = "Uzk1djYNjZnSzO*jaf9JxQOIk");
+builder.Services.AddOpenAIService(settings => settings.ApiKey = "");
 
 var app = builder.Build();
 
